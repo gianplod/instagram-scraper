@@ -76,3 +76,8 @@ dmypy.json
 #geckodriver
 *.exe
 *.log
+
+#created files 
+dontfollowback.txt
+followers.txt
+following.txt
